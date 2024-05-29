@@ -1,0 +1,6 @@
+@RateLimiting.UI_HostAddress = http://localhost:5084
+
+GET {{RateLimiting.UI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
